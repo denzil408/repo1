@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4893-EB3A
+
+ Directory of C:\Users\Prodans\Desktop\MyProject
+
+27/06/2021  11:09 PM    <DIR>          .
+27/06/2021  11:09 PM    <DIR>          ..
+27/06/2021  11:09 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  244,627,251,200 bytes free
